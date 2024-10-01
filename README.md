@@ -37,6 +37,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:** Run the following command in terminal to clone the repository locally
 ```
 git clone https://github.com/iamayan2011/Ecommerce-scrapper-extension.git
+cd .\Ecommerce-scrapper-extension\
 ```
 2. **Install server dependencies:** Navigate to the folder where all the files are present and run the following command to install the necessary Node.js packages.
 ```
