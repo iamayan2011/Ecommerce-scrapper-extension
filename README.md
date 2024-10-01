@@ -44,8 +44,8 @@ cd .\Ecommerce-scrapper-extension\
 npm install
 ```
 3.  **Add your API Key in .env file:** In the .env file, replace "PASTE_YOUR_API_KEY_HERE" with your SerpAPI key.
-    * **Disclaimer:** ServAPI is a paid API and free tier can handle limited requests, so please add your own API key.
-    * You can get the ServAPI key by visiting [ServAPI Website](https://serpapi.com/dashboard).
+    * **Disclaimer:** SerpAPI is a paid API and free tier can handle limited requests, so please add your own API key.
+    * You can get the SerpAPI key by visiting [SerpAPI Website](https://serpapi.com/dashboard).
     * Verify your email and phone number to unlock the free teir.
     * Copy the API key from "Your Private API Key".
     * Paste it in the .env file as instructed earlier.
