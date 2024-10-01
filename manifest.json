@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Product Info Scraper",
+    "version": "1.0",
+    "description": "Extract product information from e-commerce websites.",
+    "permissions": ["activeTab","tabs", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://www2.hm.com/"], 
+        "js": ["content.js"]
+      }
+    ]    
+  }
+  
