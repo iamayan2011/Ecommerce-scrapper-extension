@@ -75,6 +75,8 @@ The server will run on http://localhost:3000
     * Three recommended products (fetched from SerpAPI), including their image, name, price, and source.
     * Clicking on a recommended product will redirect you to the source shopping website.
 
+    ![Extension Screenshot](https://github.com/iamayan2011/Ecommerce-scrapper-extension/blob/main/screenshots/1.png)
+
 
 
 ## Contributing
