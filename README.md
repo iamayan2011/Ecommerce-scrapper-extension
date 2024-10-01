@@ -57,6 +57,7 @@ npm install
 node server.js
 ```
 The server will run on http://localhost:3000
+
 ![Terminal Screenshot](https://github.com/iamayan2011/Ecommerce-scrapper-extension/blob/main/screenshots/ss3.png)
 
 5. **Load the Chrome Extension:**
